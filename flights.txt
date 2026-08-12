@@ -1,0 +1,64 @@
+D101,Air India,Mumbai,Delhi,50,5000.0,Domestic,06:00,120
+D102,IndiGo,Delhi,Mumbai,60,4800.0,Domestic,07:30,115
+D103,SpiceJet,Pune,Bangalore,55,4500.0,Domestic,08:15,95
+D104,GoAir,Bangalore,Pune,45,4200.0,Domestic,09:00,90
+D105,Air India,Chennai,Delhi,50,5000.0,Domestic,09:45,150
+D106,IndiGo,Delhi,Chennai,60,4800.0,Domestic,10:30,145
+D107,SpiceJet,Mumbai,Bangalore,40,4600.0,Domestic,11:15,130
+D108,GoAir,Bangalore,Mumbai,55,4300.0,Domestic,12:00,125
+D109,Air India,Kolkata,Delhi,50,5200.0,Domestic,12:45,135
+D110,IndiGo,Delhi,Kolkata,60,5000.0,Domestic,13:30,140
+D111,SpiceJet,Mumbai,Pune,45,4100.0,Domestic,14:15,80
+D112,GoAir,Pune,Mumbai,50,4200.0,Domestic,15:00,85
+D113,Air India,Hyderabad,Bangalore,50,4700.0,Domestic,15:45,95
+D114,IndiGo,Bangalore,Hyderabad,60,4500.0,Domestic,16:30,90
+D115,SpiceJet,Chennai,Pune,55,4400.0,Domestic,17:15,110
+D116,GoAir,Pune,Chennai,50,4300.0,Domestic,18:00,115
+D117,Air India,Delhi,Bangalore,45,5100.0,Domestic,18:45,150
+D118,IndiGo,Bangalore,Delhi,50,4900.0,Domestic,19:30,145
+D119,SpiceJet,Mumbai,Chennai,40,4700.0,Domestic,20:15,135
+D120,GoAir,Chennai,Mumbai,45,4600.0,Domestic,21:00,130
+D121,Air India,Kolkata,Mumbai,50,5200.0,Domestic,21:45,140
+D122,IndiGo,Mumbai,Kolkata,60,5000.0,Domestic,22:30,135
+D123,SpiceJet,Delhi,Pune,55,4800.0,Domestic,23:15,125
+D124,GoAir,Pune,Delhi,50,4700.0,Domestic,23:59,120
+D125,Air India,Hyderabad,Delhi,45,5000.0,Domestic,06:15,145
+D126,IndiGo,Delhi,Hyderabad,50,4800.0,Domestic,07:45,140
+D127,SpiceJet,Bangalore,Chennai,55,4500.0,Domestic,08:30,100
+D128,GoAir,Chennai,Bangalore,50,4400.0,Domestic,09:15,95
+D129,Air India,Mumbai,Hyderabad,50,4900.0,Domestic,10:00,125
+D130,IndiGo,Hyderabad,Mumbai,55,4700.0,Domestic,10:45,120
+D131,SpiceJet,Delhi,Chennai,45,5000.0,Domestic,11:30,150
+D132,GoAir,Chennai,Delhi,50,4800.0,Domestic,12:15,145
+D133,Air India,Pune,Kolkata,50,4600.0,Domestic,13:00,135
+D134,IndiGo,Kolkata,Pune,55,4500.0,Domestic,13:45,130
+D135,SpiceJet,Bangalore,Mumbai,60,4700.0,Domestic,14:30,125
+D136,GoAir,Mumbai,Bangalore,50,4600.0,Domestic,15:15,120
+D137,Air India,Delhi,Hyderabad,50,5100.0,Domestic,16:00,140
+D138,IndiGo,Hyderabad,Delhi,55,4900.0,Domestic,16:45,135
+D139,SpiceJet,Chennai,Pune,45,4300.0,Domestic,17:30,110
+D140,GoAir,Pune,Chennai,50,4200.0,Domestic,18:15,115
+I201,Emirates,Mumbai,Dubai,30,20000.0,International,06:00,180
+I202,Qatar Airways,Delhi,Doha,25,18000.0,International,07:30,170
+I203,Singapore Airlines,Mumbai,Singapore,20,22000.0,International,08:15,300
+I204,British Airways,Delhi,London,15,45000.0,International,09:00,480
+I205,Emirates,Bangalore,Dubai,25,21000.0,International,09:45,185
+I206,Qatar Airways,Mumbai,Doha,30,19000.0,International,10:30,175
+I207,Singapore Airlines,Delhi,Singapore,20,23000.0,International,11:15,305
+I208,British Airways,Bangalore,London,15,46000.0,International,12:00,490
+I209,Emirates,Chennai,Dubai,25,21500.0,International,12:45,190
+I210,Qatar Airways,Kolkata,Doha,20,18500.0,International,13:30,180
+I211,Singapore Airlines,Bangalore,Singapore,25,22500.0,International,14:15,300
+I212,British Airways,Mumbai,London,15,45500.0,International,15:00,485
+I213,Emirates,Delhi,Dubai,30,20000.0,International,15:45,180
+I214,Qatar Airways,Hyderabad,Doha,25,18200.0,International,16:30,175
+I215,Singapore Airlines,Chennai,Singapore,20,22000.0,International,17:15,305
+I216,British Airways,Kolkata,London,15,45000.0,International,18:00,490
+I217,Emirates,Pune,Dubai,25,20000.0,International,18:45,180
+I218,Qatar Airways,Bangalore,Doha,25,19000.0,International,19:30,175
+I219,Singapore Airlines,Mumbai,Singapore,20,22500.0,International,20:15,300
+I220,British Airways,Delhi,London,15,45500.0,International,21:00,485
+I221,Emirates,Hyderabad,Dubai,30,20500.0,International,21:45,185
+I222,Qatar Airways,Chennai,Doha,20,18000.0,International,22:30,175
+I223,Singapore Airlines,Kolkata,Singapore,25,23000.0,International,23:15,305
+I224,British Airways,Bangalore,London,15,46000.0,International,23:59,490
